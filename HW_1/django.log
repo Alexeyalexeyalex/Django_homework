@@ -1,0 +1,36 @@
+INFO 2024-02-13 15:18:09,419 Watching for file changes with StatReloader
+INFO 2024-02-13 15:18:32,972 Watching for file changes with StatReloader
+INFO 2024-02-13 15:19:41,342 Watching for file changes with StatReloader
+WARNING 2024-02-13 15:19:46,919 Not Found: /
+WARNING 2024-02-13 15:19:46,920 "GET / HTTP/1.1" 404 2389
+INFO 2024-02-13 15:19:57,544 "GET /main HTTP/1.1" 301 0
+INFO 2024-02-13 15:19:57,554 "GET /main/ HTTP/1.1" 200 7
+INFO 2024-02-13 15:20:25,314 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\urls.py changed, reloading.
+INFO 2024-02-13 15:20:26,272 Watching for file changes with StatReloader
+INFO 2024-02-13 15:20:26,456 "GET /main/ HTTP/1.1" 200 7
+INFO 2024-02-13 15:20:27,744 "GET /main/ HTTP/1.1" 200 7
+INFO 2024-02-13 15:20:30,505 "GET / HTTP/1.1" 200 7
+INFO 2024-02-13 15:22:32,445 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:22:33,315 Watching for file changes with StatReloader
+INFO 2024-02-13 15:23:44,572 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:23:45,911 Watching for file changes with StatReloader
+INFO 2024-02-13 15:23:57,508 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:23:58,299 Watching for file changes with StatReloader
+INFO 2024-02-13 15:24:37,792 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:24:38,613 Watching for file changes with StatReloader
+INFO 2024-02-13 15:24:43,928 "GET / HTTP/1.1" 200 3019
+INFO 2024-02-13 15:25:32,043 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:25:32,841 Watching for file changes with StatReloader
+INFO 2024-02-13 15:25:33,849 "GET / HTTP/1.1" 200 2098
+INFO 2024-02-13 15:26:00,082 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:26:01,060 Watching for file changes with StatReloader
+INFO 2024-02-13 15:26:14,816 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:26:15,615 Watching for file changes with StatReloader
+INFO 2024-02-13 15:26:17,130 "GET / HTTP/1.1" 200 1868
+INFO 2024-02-13 15:26:40,961 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:26:41,898 Watching for file changes with StatReloader
+INFO 2024-02-13 15:27:00,875 C:\Users\a.silaenkov\Desktop\Django\Django_homework\HW_1\task1_app\views.py changed, reloading.
+INFO 2024-02-13 15:27:01,955 Watching for file changes with StatReloader
+INFO 2024-02-13 15:27:02,831 "GET / HTTP/1.1" 200 41634
+INFO 2024-02-13 15:27:13,077 "GET /about HTTP/1.1" 301 0
+INFO 2024-02-13 15:27:13,082 "GET /about/ HTTP/1.1" 200 2539
