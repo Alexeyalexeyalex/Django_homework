@@ -23,6 +23,6 @@ class Product(models.Model):
 
 class Order(models.Model):
     client = models.ForeignKey(Client, on_delete=models.CASCADE)
-    product = models.ManyToManyField(Product)
+    product = models.ForeignKey(Product, on_delete=models.CASCADE)
     order_sum = models.IntegerField()
     order_registration_date = models.DateField()
